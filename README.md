@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18728300.svg)](https://doi.org/10.5281/zenodo.18728300)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18728299.svg)](https://doi.org/10.5281/zenodo.18728299)
 
 # RAG Is Not a Safety System
 
