@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18728300.svg)](https://doi.org/10.5281/zenodo.18728300)
+
 # RAG Is Not a Safety System
 
 **RAG Is Not a Safety System: Why Retrieval Does Not Solve AI Reliability**  
@@ -28,8 +30,31 @@ The paper outlines a safety posture that requires governance at runtime, includi
 - produce auditable traces describing evidence used, decisions taken, and refusal conditions.
 
 ## Persistent identifier
-- Zenodo record: TBD  
-- DOI: TBD  
+Zenodo record: https://zenodo.org/records/18728300  
+DOI (v1.0): 10.5281/zenodo.18728300  
+DOI (all versions): 10.5281/zenodo.18728299
 
 ## Citation
-Until a DOI is available, cite this work as a preprint hosted in this repository.
+
+If you reference this work, please cite the Zenodo record.
+
+**Versioned citation (recommended, pins v1.0):**  
+Corral, R. S. J. (2026). *RAG Is Not a Safety System: Why Retrieval Does Not
+Solve AI Reliability* (v1.0) [Preprint]. Zenodo.
+https://doi.org/10.5281/zenodo.18728300
+
+**All versions (concept DOI, always resolves to latest):**  
+https://doi.org/10.5281/zenodo.18728299
+
+**BibTeX (v1.0):**
+```bibtex
+@misc{corral2026ragnot_v1,
+  title        = {RAG Is Not a Safety System: Why Retrieval Does Not Solve AI Reliability},
+  author       = {Corral, Rogel S. J.},
+  year         = {2026},
+  month        = feb,
+  howpublished = {Zenodo},
+  doi          = {10.5281/zenodo.18728300},
+  url          = {https://zenodo.org/records/18728300},
+  note         = {Version v1.0. License: CC BY-SA 4.0.}
+}
