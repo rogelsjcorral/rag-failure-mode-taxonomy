@@ -30,8 +30,8 @@ The paper outlines a safety posture that requires governance at runtime, includi
 - produce auditable traces describing evidence used, decisions taken, and refusal conditions.
 
 ## Persistent identifier
-Zenodo record: https://zenodo.org/records/18728300  
-DOI (v1.0): 10.5281/zenodo.18728300  
+Zenodo record: https://zenodo.org/records/18896748  
+DOI (v1.0): 10.5281/zenodo.18896748  
 DOI (all versions): 10.5281/zenodo.18728299
 
 ## Citation
