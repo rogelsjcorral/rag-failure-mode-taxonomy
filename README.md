@@ -41,7 +41,7 @@ If you reference this work, please cite the Zenodo record.
 **Versioned citation (recommended, pins v1.0):**  
 Corral, R. S. J. (2026). *RAG Is Not a Safety System: Why Retrieval Does Not
 Solve AI Reliability* (v1.0) [Preprint]. Zenodo.
-https://doi.org/10.5281/zenodo.18728300
+https://doi.org/10.5281/zenodo.18896748
 
 **All versions (concept DOI, always resolves to latest):**  
 https://doi.org/10.5281/zenodo.18728299
@@ -54,7 +54,7 @@ https://doi.org/10.5281/zenodo.18728299
   year         = {2026},
   month        = feb,
   howpublished = {Zenodo},
-  doi          = {10.5281/zenodo.18728300},
-  url          = {https://zenodo.org/records/18728300},
+  doi          = {10.5281/zenodo.18896748},
+  url          = {https://zenodo.org/records/18896748},
   note         = {Version v1.0. License: CC BY-SA 4.0.}
 }
