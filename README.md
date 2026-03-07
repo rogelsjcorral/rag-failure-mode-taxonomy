@@ -31,7 +31,7 @@ The paper outlines a safety posture that requires governance at runtime, includi
 
 ## Persistent identifier
 Zenodo record: https://zenodo.org/records/18896748  
-DOI (v1.0): 10.5281/zenodo.18896748  
+DOI (v1.0.4): 10.5281/zenodo.18896748  
 DOI (all versions): 10.5281/zenodo.18728299
 
 ## Citation
